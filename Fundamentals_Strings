@@ -1,0 +1,11 @@
+
+https://onlinegdb.com/c_M0RtkEl
+
+public class Main
+{
+	public static void main(String[] args) {
+		String a="Wipro";
+		String b="Banglore";
+		System.out.print(a +" Technologies "+ b);
+	}
+}
